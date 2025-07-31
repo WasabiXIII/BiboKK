@@ -1,0 +1,7 @@
+# Unity .gitignore 
+Library/ 
+Temp/ 
+*.csproj 
+*.sln 
+.vs/ 
+Build/ 
